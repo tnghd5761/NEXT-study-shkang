@@ -1,20 +1,32 @@
 {
-  "name": "next-study-shkang",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tnghd5761/NEXT-study-shkang.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tnghd5761/NEXT-study-shkang/issues"
-  },
-  "homepage": "https://github.com/tnghd5761/NEXT-study-shkang#readme"
+    "name": "next-study-shkang",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tnghd5761/NEXT-study-shkang.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tnghd5761/NEXT-study-shkang/issues"
+    },
+    "homepage": "https://github.com/tnghd5761/NEXT-study-shkang#readme",
+    "dependencies": {
+        "express": "^4.21.0",
+        "nodemon": "^3.1.7"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.11.0",
+        "eslint": "^9.11.0",
+        "eslint-plugin-react": "^7.36.1",
+        "globals": "^15.9.0",
+        "prettier": "^3.3.3",
+        "typescript-eslint": "^8.6.0"
+    }
 }
