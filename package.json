@@ -1,0 +1,20 @@
+{
+  "name": "next-study-shkang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnghd5761/NEXT-study-shkang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnghd5761/NEXT-study-shkang/issues"
+  },
+  "homepage": "https://github.com/tnghd5761/NEXT-study-shkang#readme"
+}
